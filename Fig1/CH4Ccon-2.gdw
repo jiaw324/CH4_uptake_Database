@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GetDataWorkspace>
+  <version>2.26.0.20</version>
+  <WSversion>10</WSversion>
+  <File>
+    <Name>D:\233 CH4 uptake_Database\CH4-database-outline-fig\fig_20250911\fig1\ch4_trend_gl.jpg</Name>
+    <Width>800</Width>
+    <Height>600</Height>
+  </File>
+  <Line>
+    <Caption>线段 #1</Caption>
+    <LineColor>2,1,1</LineColor>
+    <BkColor>254,254,254</BkColor>
+    <PtColor>220,70,220</PtColor>
+    <LineType>0</LineType>
+    <Points MF="9">1174,4540,1282,4450,1381,4351,1489,4252,1588,4135,1705,4045,1795,3937,1903,3838,2011,3730,2119,3622</Points>
+    <Points MF="9">2209,3532,2317,3433,2416,3343,2524,3226,2632,3154,2731,3055,2830,2983,2938,2902,3046,2839,3145,2767</Points>
+    <Points MF="9">3253,2695,3352,2632,3460,2578,3559,2515,3667,2461,3766,2407,3874,2353,3982,2299,4072,2254,4198,2200</Points>
+    <Points MF="9">4288,2155,4405,2101,4495,2056,4603,2002,4702,1957,4810,1921,4909,1876,5017,1831,5125,1777,5224,1741</Points>
+    <Points MF="9">5332,1696,5440,1660,5539,1615,5647,1570,5746,1516,5854,1480,5953,1435,6061,1381,6169,1345,6259,1291</Points>
+    <Points MF="9">6367,1237,6466,1183,6583,1129</Points>
+  </Line>
+  <CurrentLine>0</CurrentLine>
+  <Xmin MF="9">2371,4810,2.022000e+003</Xmin>
+  <Xmax MF="9">6106,4801,2.025000e+003</Xmax>
+  <Ymin MF="9">913,4342,1.890000e+003</Ymin>
+  <Ymax MF="9">904,913,1.940000e+003</Ymax>
+  <XScale>linear</XScale>
+  <YScale>linear</YScale>
+  <Position>315,53</Position>
+  <Zoom>
+    <Scale>200.0</Scale>
+  </Zoom>
+  <Digitize>
+    <IgnorePixels>1</IgnorePixels>
+    <LineIDMethod>2</LineIDMethod>
+  </Digitize>
+  <AutoTrace>
+    <TraceDistance>8</TraceDistance>
+    <SmoothLines>1</SmoothLines>
+  </AutoTrace>
+  <DigitizeArea>
+    <LineOrArea>0</LineOrArea>
+    <AreaType>1</AreaType>
+    <GridType>0</GridType>
+    <deltaX>3.00000000000000e-002</deltaX>
+    <deltaXUnits>1</deltaXUnits>
+    <GoThroughX>2.02200000000000e+003</GoThroughX>
+    <ShiftX>1</ShiftX>
+    <RotateAngle>0.000000</RotateAngle>
+    <dx>20.000000</dx>
+  </DigitizeArea>
+  <GridSettings>
+    <ShowGrid>0</ShowGrid>
+    <AreaType>0</AreaType>
+    <dx>5.000000</dx>
+    <dy>15.000000</dy>
+  </GridSettings>
+</GetDataWorkspace>
